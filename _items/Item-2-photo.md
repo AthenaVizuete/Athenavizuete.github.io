@@ -1,3 +1,4 @@
+---
 layout: item
 format: document
 title: "Reconstruction in North Carolina Piedmont"
@@ -12,3 +13,4 @@ shortdesc: "This is an example of how to include a document (scanned or screenca
 categories: [ News Articles, Web Pages ]
 tags: [  ]
 teammember:
+---
