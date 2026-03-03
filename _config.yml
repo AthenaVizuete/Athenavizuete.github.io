@@ -49,7 +49,7 @@ title: "Athena Vizuete "
 subtitle: ""
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "I am Athena Vizuete. I am a history major and Women, Gender, and Sexuality Studies; and Public History and Museum Studies minor. I am interested in Labor history and the 19th and early 20th century history. "
+description: "I am Athena Vizuete. I am a history major and Women, Gender, and Sexuality Studies; and Public History and Museum Studies minor. I am interested in Labor history and 19th- and early 20th-century history. "
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
@@ -196,6 +196,12 @@ include: ['_pages']
 sass:
   sass_dir: _sass
   style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  
+
+
 
 plugins:
   - jekyll-seo-tag
