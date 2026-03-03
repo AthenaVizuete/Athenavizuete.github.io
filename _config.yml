@@ -107,7 +107,7 @@ fontchoice: slab
 #colorchoice: dusk # Dusky purple and olive green
 #colorchoice: whitewithaccent # White with an accent color (see below)
 
-colorchoice: whitewithaccent
+colorchoice: lavenderred
 
 # If you chose white with an accent color, choose the ACCENT you'd like to use.
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
@@ -201,9 +201,4 @@ plugins:
   - jekyll-seo-tag
   
 
-
-
-plugins:
-  - jekyll-seo-tag
-  
 
