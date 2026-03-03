@@ -1,5 +1,5 @@
 ---
-title: IDAH Community Archiving Template
+title: Athean Vizuete Website
 layout: homepage
 permalink: /
 ---
